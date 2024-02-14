@@ -12,3 +12,6 @@ docs/
 
 # Dotenv file
 .env
+readme_own.md
+node_modules/
+lib/
